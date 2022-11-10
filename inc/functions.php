@@ -1,6 +1,6 @@
 <?php
 
-include('functions_core/functions_core.php');
+include('functions/functions.php');
 
 /**
  * Classe de funções da página inicial
